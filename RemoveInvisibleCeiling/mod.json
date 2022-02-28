@@ -1,0 +1,10 @@
+{
+	"Name": "RemoveInvisibleCeiling",
+	"Authors": [ "aHorriblePlayer" ],
+	"Description": "Removes the invisible ceiling on Bazaar, Seine Crossing, Ziba Tower, Scrapmetal, Operation 925, Donya Fortress, Metro, Tehran Highway, so if you have a jetpack or noclip mod, you can explore higher and further",
+	"Version": "1.0.0",
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"veniceext": "^1.0.0"
+	}
+}
