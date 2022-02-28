@@ -1,0 +1,9 @@
+{
+	"Name": "HideShotgunSuppressors",
+	"Authors": ["aHorriblePlayer"],
+	"Description": "Hide shotgun suppressor attachments",
+	"URL": "",
+	"Version": "1.1.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
