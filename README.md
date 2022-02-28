@@ -1,3 +1,3 @@
 # VU-Mods
 
-Various mods for personal use. 
+Various _simple_ mods for personal use. 
